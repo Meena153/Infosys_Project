@@ -1,0 +1,63 @@
+Transaction ID: TXN1001
+Sender Name: ABC
+Sender Account: 101
+Receiver Name: XYZ
+Receiver Account: 102
+Amount: 5000
+Transaction Type: Transfer
+Status: SUCCESS
+Time: 2026-02-07 10:30
+--------------------------------------
+DIGITAL BANKING FRAUD DETECTION SYSTEM
+--------------------------------------
+
+TRANSACTION DETAILs:
+
+1. BASIC TRANSACTION INFORMATION
+--------------------------------
+Transaction ID        : TXN20260218001
+Transaction Date      : 18-02-2026
+Transaction Time      : 14:32:10
+Transaction Type      : Fund Transfer
+Transaction Mode      : UPI
+Transaction Amount    : ₹1,25,000
+
+2. SENDER DETAILS
+-----------------
+Sender ID             : USER1001
+Sender Name           : Rahul Sharma
+Sender Account Number : XXXX1234
+Sender Mobile Number  : +91-9XXXXXXXXX
+Sender Device ID      : DEVICE_78945
+Sender IP Address     : 192.168.1.25
+Sender Location       : Hyderabad, India
+
+3. RECEIVER DETAILS
+-------------------
+Receiver ID           : USER2056
+Receiver Name         : Amit Verma
+Receiver Account No   : XXXX9876
+Receiver Bank Name    : XYZ Bank
+Receiver Location     : Mumbai, India
+
+4. AUTHENTICATION DETAILS
+-------------------------
+Authentication Type   : OTP
+OTP Verified          : Yes
+Biometric Used        : No
+
+5. FRAUD ANALYSIS DETAILS
+-------------------------
+Rule-Based Score      : 60
+ML Fraud Probability  : 0.87
+Combined Risk Score   : 85/100
+
+6. STATUS
+---------
+Fraud Status          : High Risk
+Final Decision        : BLOCKED
+Transaction Flag      : FLAGGED
+
+--------------------------------------
+END OF TRANSACTION RECORD
+--------------------------------------
